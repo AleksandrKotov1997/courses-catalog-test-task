@@ -1,0 +1,15 @@
+{
+  "name": "test-front",
+  "version": "1.0.0",
+  "description": "Pixel-perfect online courses catalog test task",
+  "scripts": {
+    "sass": "sass scss/styles.scss css/styles.css",
+    "sass:watch": "sass --watch scss/styles.scss:css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.100.0"
+  }
+}
