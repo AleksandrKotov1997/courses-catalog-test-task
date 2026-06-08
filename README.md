@@ -4,11 +4,11 @@ Pixel-perfect course catalog block based on the provided Figma layout.
 
 ## Demo
 
-Live demo: _will be added after deploy_
+Live demo: https://courses-catalog-test-task.vercel.app
 
 ## Repository
 
-GitHub repository: _will be added after publishing_
+GitHub repository: https://github.com/AleksandrKotov1997/courses-catalog-test-task
 
 ## Stack
 
@@ -63,7 +63,7 @@ npm run sass
 Or run Sass in watch mode while editing:
 
 ```bash
-npx sass --watch scss/styles.scss css/styles.css
+npm run sass:watch
 ```
 
 Open `index.html` through a local server, for example with VS Code Live Server.
